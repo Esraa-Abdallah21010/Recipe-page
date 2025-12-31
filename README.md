@@ -72,11 +72,13 @@ The goal is to replicate the given design closely while ensuring the page is ful
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Esraa-Abdallah21010/Recipe-page.git
+(git clone https://github.com/Esraa-Abdallah21010/Recipe-page.git)
+
 
 ---
 
 ## 📫 Connect With Me
+
 <p align="center">
   <a href="mailto:esraaabdallah21010@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
